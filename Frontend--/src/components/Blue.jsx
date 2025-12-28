@@ -7,6 +7,7 @@ function Blue(information) {
         <h1>
           {information.username} {information.comment}
         </h1>
+        <img src={information.image} alt="" />
       </div>
     </>
   );

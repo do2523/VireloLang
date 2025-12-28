@@ -3,7 +3,9 @@ import "./Blue.css";
 function Blue() {
   return (
     <>
-      <h1 className="text">test</h1>
+      <div className="box">
+        <h1>Daniel</h1>
+      </div>
     </>
   );
 }

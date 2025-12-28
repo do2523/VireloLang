@@ -1,0 +1,10 @@
+.colors{
+    color: white;
+    text-align: center;
+    display: flex;
+    background-color: purple;
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}

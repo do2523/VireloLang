@@ -5,7 +5,7 @@ import Blue from "./components/Blue";
 function App() {
   return (
     <>
-      <Blue />
+      <Blue username="Daniel" comment="hate this channel" />
       <h1>Jello world</h1>
     </>
   );
